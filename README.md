@@ -1,2 +1,2 @@
-# TheSparksFoundationTasks/yask_1
-Data Science &amp; Business Analytics intern at The Sparks Foundation
+# Score_Prediction
+On a small dimensional data, I have predicted scores of students based on the number of Hours they study using Linear Regression.
